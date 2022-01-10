@@ -47,8 +47,6 @@ def greetings():
 def random_qn():
     qns = ['Sing me a song', 'Tell me a story', 'I am said, what should I do.']
     speak(random.choice(qns))
-    return
-
 
 if __name__ == "__main__":
     greetings()
