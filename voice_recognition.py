@@ -65,6 +65,9 @@ if __name__ == "__main__":
         elif 'music' in query:
             speak(f"playing music")
             os.system('xdg-open add_your_file_path')
+        elif 'shutdown' in query:
+            speak('Shutting down your system')
+            os.system("shutdown /s")
         elif 'who is' in query:
             query = query.replace('who is', "")
             speak('According to wikipedia ')
