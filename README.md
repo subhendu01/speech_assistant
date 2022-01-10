@@ -11,3 +11,6 @@ If you found the below error
 It's because you don't have espeak installed on your system. That's why it is giving error
 
   1. sudo apt-get update && sudo apt-get install espeak
+
+For voice configuration please visit the below website:
+  https://pyttsx.readthedocs.io/en/latest/engine.html#changing-voices
