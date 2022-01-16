@@ -10,6 +10,8 @@ First install the below libraries:
 SpeechRecognition: This Python library is used to convert speech into text <br/>
 Pyttsx3: Pyttsx3 is a text to speech python library used to convert text into speech.
 
+:point_right: Don't give the python file name as speech_recognition.py or else it may give you error.
+
 ## For voice configuration please visit the below website:
   
     https://pyttsx.readthedocs.io/en/latest/engine.html#changing-voices
