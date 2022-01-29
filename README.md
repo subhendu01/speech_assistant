@@ -1,4 +1,4 @@
-# Speech Recognition using python
+# Speech Assistant using python
 
 Here I've used some basic python libraries to build a voice assistance.
 
